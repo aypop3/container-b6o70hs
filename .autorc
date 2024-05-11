@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "aypop3",
+  "repo": "container-b6o70hs",
+  "name": "aypop3",
+  "email": "ay.pop3@gmail.com",
+}
